@@ -61,17 +61,37 @@ body{
     background-size: cover;
 }
 #number2{
-    background-image: url(./images/userIcon2.png);
+    background-image: url(./images/2number.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 #number3{
-    background-image: url(./images/userIcon3.png);
+    background-image: url(./images/3number.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 #number4{
-    background-image: url(./images/userIcon4.png);
+    background-image: url(./images/4number.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#number5{
+    background-image: url(./images/5number.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#number6{
+    background-image: url(./images/6number.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#number7{
+    background-image: url(./images/7number.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#number8{
+    background-image: url(./images/8number.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
